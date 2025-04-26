@@ -26,9 +26,8 @@
 - Network Security Fundamentals
 
 ## 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 💬 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourusername)
-- 🌐 Portfolio: [Coming Soon!]
+- 📧 Email: pranavbarathi05.com
+- 💬 LinkedIn: https://www.linkedin.com/in/pranav-barathi-158457318/
 
 ---
 
