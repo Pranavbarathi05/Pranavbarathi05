@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+    <img alt="Coding Gif" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  </picture>
+</p>
+
+
 # 👾 Hi there, I'm Pranav! 🕶️
 
 ## 🖤 About Me
