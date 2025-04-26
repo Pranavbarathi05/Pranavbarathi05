@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing+Pranav's+System...;Loading+Penetration+Testing+Modules...;Access+Granted!;Welcome+to+My+CyberWorld!" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="CMatrix Rain" width="100%" />
 </p>
 
 
