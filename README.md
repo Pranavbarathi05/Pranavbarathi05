@@ -1,9 +1,7 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-    <img alt="Coding Gif" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing+Pranav's+System...;Loading+Penetration+Testing+Modules...;Access+Granted!;Welcome+to+My+CyberWorld!" />
 </p>
+
 
 
 # 👾 Hi there, I'm Pranav! 🕶️
