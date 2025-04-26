@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="CMatrix Rain" width="100%" />
+  <img src="https://i.imgur.com/FK0z3zm.gif" alt="Matrix Rain" width="100%" />
 </p>
-
 
 
 # 👾 Hi there, I'm Pranav! 🕶️
