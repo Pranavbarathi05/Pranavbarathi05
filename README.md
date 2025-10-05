@@ -46,6 +46,11 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Batch](https://img.shields.io/badge/Windows_Batch-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell ISE](https://img.shields.io/badge/PowerShell_ISE-000000?style=for-the-badge&logo=powershell&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
