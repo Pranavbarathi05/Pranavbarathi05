@@ -60,16 +60,19 @@
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavbarathi05&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
   <p></p>
+  
+  <!-- Profile details -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranavbarathi05&theme=dark" alt="Profile Details" />
   <p></p>
+  
   <!-- Stats + Languages side by side -->
   <table>
     <tr>
       <td>
-        <img src="https://github.com/Pranavbarathi05/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Overview" />
+        <img src="https://raw.githubusercontent.com/Pranavbarathi05/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview" />
       </td>
       <td>
-        <img src="https://github.com/Pranavbarathi05/github-stats-transparent/blob/output/generated/languages.svg" alt="Top Languages" />
+        <img src="https://raw.githubusercontent.com/Pranavbarathi05/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
       </td>
     </tr>
   </table>
