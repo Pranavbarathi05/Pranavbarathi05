@@ -56,10 +56,22 @@
 
 ## 📊 GitHub Stats
 
-| Stats | Streak |
-|:-----|:------|
-| ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavbarathi05&show_icons=true&theme=radical&border_color=0D1117&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9) | ![GitHub Streak](https://streak-stats.demolab.com?user=Pranavbarathi05&theme=radical) |
+<div align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavbarathi05&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+  <p></p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranavbarathi05&theme=dark" alt="Profile Details" />
+  <p></p>
+  <!-- Stats + Languages side by side -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Pranavbarathi05/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Overview" />
+      </td>
+      <td>
+        <img src="https://github.com/Pranavbarathi05/github-stats-transparent/blob/output/generated/languages.svg" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-![Visitor Count](https://profile-counter.glitch.me/Pranavbarathi05/count.svg)
