@@ -3,43 +3,60 @@
 </p>
 
 
-# 👾 Hi there, I'm Pranav! 🕶️
+# 💫 About Me
 
-## 🖤 About Me
-- 🎓 I'm a Computer Science Engineering student at JSSSTU Mysuru.
-- 🛡️ Currently diving deep into Cybersecurity and Ethical Hacking.
-- 🖥️ I live inside Kali Linux, chasing vulnerabilities and securing systems.
-- 📜 Documenting my hacking journey one repo at a time!
-
-## 🛠️ Projects I'm Working On
-- **CyberSec-Journal**: Cybersecurity learning logs and experiments.
-- **Penetration-Testing**: Hands-on projects like WiFi cracking, IP tracking, and network enumeration.
-- 🔭 I’m currently working on Pentesting.
-- 🌱 I’m currently learning Advanced Networking concepts.
-- 👯 I’m looking to collaborate on Penetration Testing and Red Teaming projects.
-- 🤔 I’m open to cybersecurity discussions anytime.
-- 💬 Ask me about anything cybersecurity related — if I know it, I'll help.
-- 📫 How to reach me: pranavbarathi05@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to be an international swimmer 🏊‍♂️ — now swimming through networks.
-
-## 🧠 Skills I'm Building
-- 🐧 Linux (Kali, Ubuntu)
-- ⚡ Ethical Hacking (Penetration Testing, Recon, Exploitation)
-- 🔥 Git and GitHub for professional documentation
-- 🌐 Network Security Fundamentals
-
-## 🔗 Connect with Me
-- 📧 [Email](mailto:pranavbarathi05@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-barathi-158457318/)
+👾 Hi there — I'm **Pranav Barathi** 🕶️  
+🎓 Computer Science Engineering student at JSS Science and Technology University (JSSSTU), Mysuru  
+🛡️ Passionate about Cybersecurity, Ethical Hacking & Penetration Testing  
+🖥️ Living inside Kali Linux — chasing vulnerabilities and securing systems  
 
 ---
 
-> "Hacking is not about breaking systems. It's about breaking limits." 🖤👾
+## 🧠 What I’m Currently Doing
+
+- 🔭 Working on **Penetration Testing projects**
+- 🌱 Learning **Advanced Networking & Security Concepts**
+- 👯 Open to collaborating on **Red Teaming / Pentesting**
+- 🤔 Always up for cybersecurity discussions  
+- 💬 Ask me anything security-related — if I know it, I’ll help  
+- ⚡ Fun fact: Former international swimmer 🏊‍♂️ — now swimming through networks  
+
+---
+
+## 🛠️ Projects
+
+### 🔐 Secure real time workspace
+a basic messgaing app layered with real time data transfer enabling video calls remote desktop connections and private linux based workspaces connected via tunnels coupled with an AI agent.
+
+### 🧪 Penetration-Testing  
+Hands-on security projects including:
+
+- WiFi cracking  
+- IP tracking  
+- Network enumeration  
+- SMB password brute-forcing  
+- File Integrity Monitoring (PowerShell)
+
+### 🧩 CTFchalls2026  
+CTF challenges and practice labs.
+
+---
+
+## 🧰 Skills I’m Building
+
+- 🐧 Linux (Kali, BlackArch)
+- ⚡ Ethical Hacking (Recon, Exploitation, Pentesting)
+- 🌐 Network Security Fundamentals
+- 🔥 Git & GitHub (professional documentation)
+- 🐍 Python
+- 🪟 PowerShell & Windows Batch
+- 🐳 Docker
+- ☁️ Cloudflare & AWS basics
 
 ---
 
 ## 🛠️ Tools and Technologies
+
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -51,30 +68,28 @@
 ![PowerShell ISE](https://img.shields.io/badge/PowerShell_ISE-000000?style=for-the-badge&logo=powershell&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **pranavbarathi05@gmail.com**
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phantom_blue.05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-barathi)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavbarathi05&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-  <p></p>
-  
-  <!-- Profile details -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranavbarathi05&theme=dark" alt="Profile Details" />
-  <p></p>
-  
-  <!-- Stats + Languages side by side -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/Pranavbarathi05/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/Pranavbarathi05/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Pranavbarathi05&theme=dark&hide_border=false&include_all_commits=true)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Pranavbarathi05&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbarathi05&theme=dark&hide_border=false&layout=compact)
+
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranavbarathi05&theme=dark" alt="Profile Details" />
+  <p></p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Pranavbarathi05&icon=0&color=0)](https://visitcount.itsvg.in)
