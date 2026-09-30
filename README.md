@@ -111,12 +111,13 @@ A multi-machine recruitment platform designed around separated application, comp
       ┌──────▼──────┐             ┌──────▼──────┐
       │    App-1    │             │    App-2    │
       │ Application │             │   Replica   │
-      └──────┬──────┘             └─────────────┘
-             │
-      ┌──────▼──────┐
-      │  Compiler-1 │
-      │ Code Runner │
-      └─────────────┘
+      └──────┬──────┘             └──────┬──────┘
+             ┴───────────────|───────────┴
+             ┌───────────────|────────────────┐
+      ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐
+      │  Compiler-1 │ │  Compiler-2 │ │  Compiler-3 │
+      │ Code Runner │ │ Code Runner │ │ Code Runner │
+      └─────────────┘ └─────────────┘ └─────────────┘
 ```
 
 ### Engineering Focus
